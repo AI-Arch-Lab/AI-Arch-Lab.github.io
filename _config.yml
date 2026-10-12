@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "AI-Arch Lab"
+title                    : "AI-Arch Security Lab"
 title_separator          : "-"
-name                     : &name "AI-Arch Lab"
+name                     : &name "AI-Arch Security Lab"
 description              : &description "AI Architecture & Security Laboratory, School of Cyber Security, Tianjin University"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://Kepler0325.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://ai-arch-lab.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Kepler0325/Kepler0325.github.io"
+repository               : "AI-Arch-Lab/AI-Arch-Lab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ repository               : "Kepler0325/Kepler0325.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "AI-Arch Lab / AI-Arch实验室"
+  name             : "AI-Arch Security Lab / AI-Arch实验室"
   pronouns         : # example: "she/her"  
   bio              : "AI Architecture & Security Laboratory"
   location         : "Tianjin, China / 天津"
