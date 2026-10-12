@@ -24,12 +24,12 @@ repository               : "Kepler0325/Kepler0325.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "AI-Arch Lab"
+  name             : "AI-Arch Lab / AI-Arch实验室"
   pronouns         : # example: "she/her"  
   bio              : "AI Architecture & Security Laboratory"
-  location         : "Tianjin, China"
-  employer         : "Tianjin University"
-  school           : "School of Cyber Security"
+  location         : "Tianjin, China / 天津"
+  employer         : "Tianjin University / 天津大学"
+  school           : "网络安全学院"
   uri              : # URL
   email            : "wangxingbin@tju.edu.cn" 
 
