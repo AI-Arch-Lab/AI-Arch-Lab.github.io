@@ -41,7 +41,7 @@ More than 10 papers have been published in international conferences and journal
 
 Selected publications cover secure DNN accelerator architectures, defenses against adversarial attacks, robust neural network accelerators, and deepfake detection architectures.
 
-[View Publications →](/publications/)
+[View Publications →](/publications.html)
 
 ## Principal Investigator
 
