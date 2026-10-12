@@ -1,69 +1,58 @@
 ---
 permalink: /
-title: "AI-Arch Lab"
+title: "Welcome to AI-Arch Lab"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+AI-Arch Lab focuses on the **security of artificial intelligence systems and computing architectures**, with particular interests in AI processor security architecture, secure computing chips for embodied intelligence, embodied intelligence security, and large language model security.
 
-## AI Architecture & Security Laboratory
+Related research topics include **adversarial attacks and defenses** for deep neural networks and privacy-preserving inference for large language models. The group aims to address security challenges in AI models, processors, and intelligent systems through research on secure computing architectures and related technologies.
 
-**School of Cyber Security, Tianjin University**
+## Research Areas
 
-AI-Arch Lab focuses on the security of artificial intelligence systems, AI processors, embodied intelligence, and large language models.
+Our research interests include:
 
-## Principal Investigator
+**AI Processor Security Architecture**
 
-### Xingbin Wang
+Security architectures for artificial intelligence processors and deep neural network accelerators, including defenses against adversarial attacks and model inversion attacks.
 
-**Professor**  
-School of Cyber Security, Tianjin University
+**Embodied Intelligence Security**
 
-Research interests:
+Security of embodied intelligence systems and the development of secure computing chips for embodied intelligence.
 
-- AI Processor Security Architecture
-- Embodied Intelligence Security
-- Secure Computing Chips for Embodied Intelligence
-- Large Language Model Security
-- Adversarial Attacks and Defenses
-- AI System Security
+**Large Language Model Security**
 
-Email: wangxingbin@tju.edu.cn
+Security and privacy in large language model inference, with a focus on privacy-preserving inference.
 
-## Research
+## Research Projects
 
-Our research focuses on security issues across AI models, computing architectures, and intelligent systems.
+Professor Xingbin Wang has received funding as Principal Investigator from the **General Program of the National Natural Science Foundation of China (NSFC)** and the **Chinese Academy of Sciences (CAS) Special Research Assistant Program**.
 
-Current research areas include:
+He has also participated as a core team member in the **CAS Class-C Strategic Priority Research Program** and projects supported by the **Beijing Science and Technology Program**.
 
-- AI processor security architecture
-- Embodied intelligence security
-- Secure computing chips for embodied intelligence
-- Large language model security
-- Adversarial attacks and defenses
-- Privacy and security of AI systems
-
-[Learn more about our research →](/research/)
+[Explore Research Projects →](/projects/)
 
 ## Publications
 
-Our research has been published at ASPLOS, ISCA, IEEE TCAD, DAC, DATE, ACM TECS, CF, and other international conferences and journals.
+More than 10 papers have been published in international conferences and journals, including **ASPLOS, ISCA, IEEE TCAD, DAC, DATE, ACM TECS, and CF**.
 
-[View publications →](/publications/)
+Selected publications cover secure DNN accelerator architectures, defenses against adversarial attacks, robust neural network accelerators, and deepfake detection architectures.
 
-## Projects
+[View Publications →](/publications/)
 
-Our group leads and participates in research projects supported by the National Natural Science Foundation of China, the Chinese Academy of Sciences, and the Beijing Science and Technology Program.
+## Principal Investigator
 
-[View projects →](/projects/)
+**Xingbin Wang**
 
-## Members
+Professor  
+School of Cyber Security, Tianjin University
 
-AI-Arch Lab consists of faculty members and graduate students working on AI security, AI processor architecture, embodied intelligence security, and large language model security.
+Research interests include AI processor security architecture, embodied intelligence security, and large language model security.
 
-[Meet our members →](/members/)
+Email: wangxingbin@tju.edu.cn
 
 ## Contact
 
